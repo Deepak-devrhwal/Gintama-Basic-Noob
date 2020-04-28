@@ -12,7 +12,8 @@
 			margin-right: 16%;
 			margin-left: 16%;
 			background-repeat: no-repeat;
-			background-image: url("images/grey.jpg");
+			/*background-image: url("images/grey.jpg");*/
+			background-color: black;
 			background-size: cover;
 		}
 		li {
@@ -107,10 +108,10 @@
 			color: lightblue;
 		}
 		.kaguratitle {
-			color: orange;
+			color: lightblue;
 		}
 		.shinpachititle {
-			color: darkblue;
+			color: lightblue;
 		}
 		.relationshipimage {
 			float: right;
@@ -175,7 +176,7 @@
 		}
 		.katsuratitle {
 			text-align: center;
-			color: cyan;
+			color: lightblue;
 		}
 		.katsuragrave {
 			display: inline-block;
@@ -187,11 +188,11 @@
 			color: yellow;
 		}
 		.kondoutitle {
-			color: brown;
+			color: lightblue;
 			text-align: center; 
 		}
 		.hijikatatitle {
-			color: black;
+			color: lightblue;
 			text-align: center;
 		}
 		.hijikatagallery {
